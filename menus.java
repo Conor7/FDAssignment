@@ -310,6 +310,8 @@ public class menus {
 											
 									}opt2 = 2;
 									
+									opt1 = 4;
+									opt2 = 2;
 									
 								} while (opt2 != 2);
 								
@@ -321,14 +323,12 @@ public class menus {
 								System.out.print("\n\n\n\nYour total is: £" + total);
 										
 
-								
+								/*
 								//header for final bill
 								My.p(String.format("\n\t%-15s %-15s %-15s %-15s %-15s %-15s %-15s", "Floor", "Flooring", "Floor", "Floor Cost",  "Extras", "Fitting", "Total"));
 								My.p(String.format("\n\t%-15s %-15s %-15s %-15s %-15s %-15s %-15s", "Number", "", "Type", "per m2", "Cost", "Cost", "Cost"));
 								My.p("\n\t----------------------------------------------------------------------------------------------------------");
-								
-								//My.p(s);	
-								
+								*/
 								
 								break;
 								
